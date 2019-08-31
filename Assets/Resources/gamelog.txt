@@ -1,0 +1,471 @@
+
+[6/2/2017 3:12:04 PM] ---------- Player Connected ---------- 
+
+
+[6/2/2017 3:12:04 PM] Login : plr1@gmail.com >> 123456
+
+
+[6/2/2017 3:12:04 PM] Warning :>> {"status":"authorized","token":"gtaWTm1zKFSX2YZvvTRnyqibMsn7DXGSG0WdvH0zHUPCTHngtcKgBlp4wztz","id":26,"name":"Plr1","firstname":"Player","lastname":"Player last name","email":"plr1@gmail.com","balance_cash":"1000.0","balance_chips":"4684.0","date_of_birth":"06\/10\/1998","gender":"male","avtar":"https:\/\/whoopasspoker.com\/upload\/userimages\/avatar7.png"}
+
+
+[6/2/2017 3:12:04 PM] Warning :>> {"id":26,"last_session_id":"a79121075b5527d33be97273c666097a1b1293d8","name":"Plr1","namehash":"37d8365296af08fcceb0272f6227a4b9","firstname":"Player","lastname":"Player last name","email":"plr1@gmail.com","emailhash":"c4c7b1235a80713ef3fae3c905699680","mobile":"2222222","address":"Gwalior","country":"China","city":"Gwalior","state":null,"zip_code":"12345","balance_cash":"1000.0","balance_chips":"4684.0","gender":"male","date_of_birth":"1998-06-10 07:53:37","daily_limit":null,"security_question":"What was your childhood nickname","security_answer":"vinod","avtar":"https:\/\/whoopasspoker.com\/upload\/userimages\/avatar7.png","pin":"1234","enable_pin":0}
+
+
+[6/2/2017 3:12:04 PM] Warning :>> {"total":18,"per_page":"8","current_page":1,"last_page":3,"next_page_url":"https:\/\/whoopasspoker.com\/rest-api\/v1\/games?page=2","prev_page_url":null,"from":1,"to":8,"data":[{"id":1,"user_id":26,"poker_type":"table","money_type":"play money","game_name":"WhoopAss Table Game","limit":"yes","name":"TableGameTest1","description":null,"game_type":"cash game","absent_plr_elimination_timer":5,"rebuy_timer":0,"break_timer":0,"break_waiting_timer":60,"max_sit_out_next_hand_time":5,"min_plr_for_breaking_table":3,"minimum_players":2,"maximum_players":3,"register_from":"1970-01-01 00:00:00","start_time":"2017-06-02 09:17:44","game_speed":"regular","fee":null,"entry_fee":null,"fee_detail":null,"raise_time":0,"small_blind":"0.00","big_blind":"0.00","rake_id":0,"prize_pool":null,"buy_in":"60.00","dealer_payout":-620,"dealer_win":63845,"status":"finished","finished_time":"2017-06-02 09:18:06","created_at":"2017-02-27 04:06:09","updated_at":"2017-06-02 09:18:06","deleted_at":null,"joined":false,"users":0},{"id":3,"user_id":27,"poker_type":"table","money_type":"play money","game_name":"WhoopAss Table Game","limit":"yes","name":"Test Table Game-2","description":null,"game_type":"cash game","absent_plr_elimination_timer":5,"rebuy_timer":0,"break_timer":0,"break_waiting_timer":60,"max_sit_out_next_hand_time":5,"min_plr_for_breaking_table":3,"minimum_players":2,"maximum_players":3,"register_from":"1970-01-01 00:00:00","start_time":"2017-06-01 04:24:11","game_speed":"regular","fee":null,"entry_fee":null,"fee_detail":null,"raise_time":0,"small_blind":"0.00","big_blind":"0.00","rake_id":0,"prize_pool":null,"buy_in":"60.00","dealer_payout":-35010,"dealer_win":111090,"status":"finished","finished_time":"2017-06-01 04:24:32","created_at":"2017-03-02 08:29:09","updated_at":"2017-06-01 04:24:32","deleted_at":null,"joined":false,"users":0},{"id":5,"user_id":30,"poker_type":"table","money_type":"play money","game_name":"WhoopAss Table Game","limit":"yes","name":"BMM-WA Table Game","description":null,"game_type":"cash game","absent_plr_elimination_timer":5,"rebuy_timer":0,"break_timer":0,"break_waiting_timer":60,"max_sit_out_next_hand_time":5,"min_plr_for_breaking_table":3,"minimum_players":2,"maximum_players":3,"register_from":"1970-01-01 00:00:00","start_time":"2017-06-02 07:55:32","game_speed":"regular","fee":null,"entry_fee":null,"fee_detail":null,"raise_time":0,"small_blind":"0.00","big_blind":"0.00","rake_id":0,"prize_pool":null,"buy_in":"60.00","dealer_payout":490,"dealer_win":8340,"status":"finished","finished_time":"2017-06-02 07:55:53","created_at":"2017-03-07 22:12:19","updated_at":"2017-06-02 07:55:53","deleted_at":null,"joined":false,"users":0},{"id":6,"user_id":30,"poker_type":"wa","money_type":"play money","game_name":"WhoopAss No Limit","limit":"no","name":"BMM-WA NO Limit","description":null,"game_type":"cash game","absent_plr_elimination_timer":5,"rebuy_timer":0,"break_timer":0,"break_waiting_timer":60,"max_sit_out_next_hand_time":5,"min_plr_for_breaking_table":3,"minimum_players":2,"maximum_players":6,"register_from":"1970-01-01 00:00:00","start_time":"2017-05-24 13:30:38","game_speed":"regular","fee":null,"entry_fee":null,"fee_detail":null,"raise_time":0,"small_blind":"500.00","big_blind":"1000.00","rake_id":0,"prize_pool":null,"buy_in":"10000.00","dealer_payout":0,"dealer_win":0,"status":"running","finished_time":"2017-04-24 13:53:44","created_at":"2017-03-08 00:11:13","updated_at":"2017-06-01 18:27:51","deleted_at":null,"joined":false,"users":0},{"id":7,"user_id":30,"poker_type":"wa","money_type":"play money","game_name":"WhoopAss No Limit","limit":"no","name":"BMM-WA NO Limit","description":null,"game_type":"cash game","absent_plr_elimination_timer":5,"rebuy_timer":0,"break_timer":0,"break_waiting_timer":60,"max_sit_out_next_hand_time":5,"min_plr_for_breaking_table":3,"minimum_players":2,"maximum_players":6,"register_from":"1970-01-01 00:00:00","start_time":"2017-03-08 00:11:47","game_speed":"regular","fee":null,"entry_fee":null,"fee_detail":null,"raise_time":0,"small_blind":"500.00","big_blind":"1000.00","rake_id":0,"prize_pool":null,"buy_in":"10000.00","dealer_payout":0,"dealer_win":0,"status":"running","finished_time":"1970-01-01 00:00:00","created_at":"2017-03-08 00:11:18","updated_at":"2017-05-24 13:13:27","deleted_at":null,"joined":false,"users":0},{"id":8,"user_id":30,"poker_type":"wa","money_type":"play money","game_name":"WhoopAss Limit","limit":"yes","name":"BMM-WA Limit","description":null,"game_type":"cash game","absent_plr_elimination_timer":5,"rebuy_timer":0,"break_timer":0,"break_waiting_timer":60,"max_sit_out_next_hand_time":5,"min_plr_for_breaking_table":3,"minimum_players":2,"maximum_players":6,"register_from":"1970-01-01 00:00:00","start_time":"2017-03-15 17:10:32","game_speed":"regular","fee":null,"entry_fee":null,"fee_detail":null,"raise_time":0,"small_blind":"1000.00","big_blind":"2000.00","rake_id":0,"prize_pool":null,"buy_in":"20000.00","dealer_payout":0,"dealer_win":0,"status":"running","finished_time":"1970-01-01 00:00:00","created_at":"2017-03-08 00:13:22","updated_at":"2017-06-01 18:22:43","deleted_at":null,"joined":false,"users":0},{"id":9,"user_id":30,"poker_type":"wa","money_type":"play money","game_name":"WhoopAss Limit","limit":"yes","name":"BMM-WA Limit","description":null,"game_type":"cash game","absent_plr_elimination_timer":5,"rebuy_timer":0,"break_timer":0,"break_waiting_timer":60,"max_sit_out_next_hand_time":5,"min_plr_for_breaking_table":3,"minimum_players":2,"maximum_players":6,"register_from":"1970-01-01 00:00:00","start_time":"2017-04-24 13:48:41","game_speed":"regular","fee":null,"entry_fee":null,"fee_detail":null,"raise_time":0,"small_blind":"1000.00","big_blind":"2000.00","rake_id":0,"prize_pool":null,"buy_in":"20000.00","dealer_payout":0,"dealer_win":0,"status":"running","finished_time":"1970-01-01 00:00:00","created_at":"2017-03-08 00:13:31","updated_at":"2017-04-24 13:48:47","deleted_at":null,"joined":false,"users":0},{"id":10,"user_id":30,"poker_type":"wa","money_type":"play money","game_name":"WhoopAss Limit","limit":"yes","name":"BMM-WA Limit","description":null,"game_type":"cash game","absent_plr_elimination_timer":5,"rebuy_timer":0,"break_timer":0,"break_waiting_timer":60,"max_sit_out_next_hand_time":5,"min_plr_for_breaking_table":3,"minimum_players":2,"maximum_players":6,"register_from":"1970-01-01 00:00:00","start_time":"1970-01-01 00:00:00","game_speed":"regular","fee":null,"entry_fee":null,"fee_detail":null,"raise_time":0,"small_blind":"1000.00","big_blind":"2000.00","rake_id":0,"prize_pool":null,"buy_in":"20000.00","dealer_payout":0,"dealer_win":0,"status":"registering","finished_time":"1970-01-01 00:00:00","created_at":"2017-03-08 00:13:36","updated_at":"2017-03-08 00:13:36","deleted_at":null,"joined":false,"users":0}]}
+
+
+[6/2/2017 3:12:04 PM] Warning :>> {"id":26,"last_session_id":"a79121075b5527d33be97273c666097a1b1293d8","name":"Plr1","namehash":"37d8365296af08fcceb0272f6227a4b9","firstname":"Player","lastname":"Player last name","email":"plr1@gmail.com","emailhash":"c4c7b1235a80713ef3fae3c905699680","mobile":"2222222","address":"Gwalior","country":"China","city":"Gwalior","state":null,"zip_code":"12345","balance_cash":"1000.0","balance_chips":"4684.0","gender":"male","date_of_birth":"1998-06-10 07:53:37","daily_limit":null,"security_question":"What was your childhood nickname","security_answer":"vinod","avtar":"https:\/\/whoopasspoker.com\/upload\/userimages\/avatar7.png","pin":"1234","enable_pin":0}
+
+
+[6/2/2017 3:12:04 PM] Warning :>> ok
+
+
+[6/2/2017 3:12:04 PM] Warning :>> ok
+
+
+[6/2/2017 3:12:04 PM] Warning :>> {"id":5,"game_name":"WhoopAss Table Game","poker_type":"table","users":[]}
+
+
+[6/2/2017 3:12:04 PM] Warning :>> ok
+
+
+[6/2/2017 3:12:04 PM] whoopasspoker.com >> Port > 12346
+
+
+[6/2/2017 3:12:04 PM] onConnectDone >> 0
+
+
+[6/2/2017 3:12:04 PM] GetMatchedRooms event received with success status
+
+
+[6/2/2017 3:12:04 PM] GetMatchedRooms event received with success status
+
+
+[6/2/2017 3:12:04 PM] GetMatchedRooms event received with success status
+
+
+[6/2/2017 3:12:04 PM] GetMatchedRooms event received with success status
+
+
+[6/2/2017 3:12:04 PM] True
+
+
+[6/2/2017 3:12:04 PM] onCreateRoomDone : 0
+
+
+[6/2/2017 3:12:04 PM] onSubscribeRoomDone : 0
+
+
+[6/2/2017 3:12:04 PM] onSetCustomUserDataDone : 0
+
+
+[6/2/2017 3:12:04 PM] Event  : onLevelUpdateEvent --> Data  : {"level":253,"game_id":5}
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 26#{"stake":"0/0","buyin":60,"isLimit":true,"GameType":"cash game","speed":"regular"} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 1#{"FirstFlop1":"eight_club","FirstFlop2":"four_spade","ThirdFlop1":"ten_club","ThirdFlop2":"four_diamond","SecondFlop1":"nine_diamond","SecondFlop2":"seven_spade"} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 2#{"Game_Status":70,"Player_Name":"Dealer","Current_Round":0,"Player_Total_Play_Chips":228248,"Profile_Pic":"https://whoopasspoker.com/upload/userimages/avatar4.png","WACard":"seven_club","Restart_Time":15,"Turn_Time":20,"Player_BuyIn_Chips":0,"Player_Position":1,"Player_Status":1,"Card1":"eight_heart","Player_Total_Real_Chips":100000,"Card2":"ace_club"} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 2#{"Game_Status":70,"Player_Name":"Plr1","Current_Round":0,"Player_Total_Play_Chips":4684,"Profile_Pic":"https://whoopasspoker.com/upload/userimages/avatar7.png","WACard":"ten_spade","Restart_Time":15,"Turn_Time":20,"Player_BuyIn_Chips":170,"Player_Position":2,"Player_Status":1,"Card1":"king_spade","Player_Total_Real_Chips":1000,"Card2":"four_heart"} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] Event  : onCashGameJoinEvent --> Data  : {"user_count":2,"game_id":5}
+
+
+[6/2/2017 3:12:04 PM] Warning :>> ok
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 8#{"Big_Blind":"Dealer","Small_Blind":"Plr1","Player_Dealer":"Dealer","SBAmount":10} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] On Join room done : 0
+
+
+[6/2/2017 3:12:04 PM] onUserJoinedRoom : Plr1 >> 5
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 6# 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 4#{"Bet_Amount":0,"Total_Table_Amount":0,"Action":5,"Player_Name":"Dealer","Player_BuyIn_Chips":0,"IsBetOnStraight":false,"Player_Total_Play_Chips":228248,"Player_Total_Real_Chips":100000} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] sender  : TableAppWarpS2	next turn  : Plr1
+
+
+[6/2/2017 3:12:04 PM] sender  : TableAppWarpS2	next turn  : Plr1
+
+
+[6/2/2017 3:12:04 PM] onSendChatDone result : 0
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 100# 
+ Sender : Plr1
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 4#{"Bet_Amount":15,"Total_Table_Amount":15,"Action":4,"Player_Name":"Plr1","Player_BuyIn_Chips":155,"IsBetOnStraight":true,"Player_Total_Play_Chips":4669,"Player_Total_Real_Chips":1000} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 5#{"Total_Table_Amount":15,"Total_WA_Pot_Amount":0,"Round":11} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 4#{"Bet_Amount":0,"Total_Table_Amount":15,"Action":5,"Player_Name":"Dealer","Player_BuyIn_Chips":0,"IsBetOnStraight":false,"Player_Total_Play_Chips":228248,"Player_Total_Real_Chips":100000} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] sender  : TableAppWarpS2	next turn  : Plr1
+
+
+[6/2/2017 3:12:04 PM] sender  : TableAppWarpS2	next turn  : Plr1
+
+
+[6/2/2017 3:12:04 PM] onSendMoveDone
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 4#{"Bet_Amount":20,"Total_Table_Amount":35,"Action":4,"Player_Name":"Plr1","Player_BuyIn_Chips":135,"IsBetOnStraight":false,"Player_Total_Play_Chips":4649,"Player_Total_Real_Chips":1000} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 5#{"Total_Table_Amount":35,"Total_WA_Pot_Amount":0,"Round":12} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 4#{"Bet_Amount":0,"Total_Table_Amount":35,"Action":5,"Player_Name":"Dealer","Player_BuyIn_Chips":0,"IsBetOnStraight":false,"Player_Total_Play_Chips":228248,"Player_Total_Real_Chips":100000} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] sender  : TableAppWarpS2	next turn  : Plr1
+
+
+[6/2/2017 3:12:04 PM] sender  : TableAppWarpS2	next turn  : Plr1
+
+
+[6/2/2017 3:12:04 PM] onSendMoveDone
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 4#{"Bet_Amount":10,"Total_Table_Amount":45,"Action":4,"Player_Name":"Plr1","Player_BuyIn_Chips":125,"IsBetOnStraight":false,"Player_Total_Play_Chips":4639,"Player_Total_Real_Chips":1000} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 5#{"Total_Table_Amount":45,"Total_WA_Pot_Amount":0,"Round":13} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 4#{"Bet_Amount":0,"Total_Table_Amount":45,"Action":5,"Player_Name":"Dealer","Player_BuyIn_Chips":0,"IsBetOnStraight":false,"Player_Total_Play_Chips":228248,"Player_Total_Real_Chips":100000} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] sender  : TableAppWarpS2	next turn  : Plr1
+
+
+[6/2/2017 3:12:04 PM] sender  : TableAppWarpS2	next turn  : Plr1
+
+
+[6/2/2017 3:12:04 PM] onSendMoveDone
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 4#{"Bet_Amount":5,"Total_Table_Amount":50,"Action":4,"Player_Name":"Plr1","Player_BuyIn_Chips":120,"IsBetOnStraight":false,"Player_Total_Play_Chips":4634,"Player_Total_Real_Chips":1000} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 5#{"Total_Table_Amount":50,"Total_WA_Pot_Amount":0,"Round":14} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 4#{"Bet_Amount":0,"Total_Table_Amount":50,"Action":12,"Player_Name":"Dealer","Player_BuyIn_Chips":0,"IsBetOnStraight":false,"Player_Total_Play_Chips":228248,"Player_Total_Real_Chips":100000} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] sender  : TableAppWarpS2	next turn  : Plr1
+
+
+[6/2/2017 3:12:04 PM] sender  : TableAppWarpS2	next turn  : Plr1
+
+
+[6/2/2017 3:12:04 PM] onSendMoveDone
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 4#{"Bet_Amount":5,"Total_Table_Amount":55,"Action":12,"Player_Name":"Plr1","Player_BuyIn_Chips":115,"IsBetOnStraight":false,"Player_Total_Play_Chips":4629,"Player_Total_Real_Chips":1000} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 5#{"Total_Table_Amount":55,"Total_WA_Pot_Amount":0,"Round":15} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 4#{"Bet_Amount":0,"Total_Table_Amount":55,"Action":5,"Player_Name":"Dealer","Player_BuyIn_Chips":0,"IsBetOnStraight":false,"Player_Total_Play_Chips":228248,"Player_Total_Real_Chips":100000} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] sender  : TableAppWarpS2	next turn  : Plr1
+
+
+[6/2/2017 3:12:04 PM] sender  : TableAppWarpS2	next turn  : Plr1
+
+
+[6/2/2017 3:12:04 PM] onSendMoveDone
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 4#{"Bet_Amount":5,"Total_Table_Amount":60,"Action":4,"Player_Name":"Plr1","Player_BuyIn_Chips":110,"IsBetOnStraight":false,"Player_Total_Play_Chips":4624,"Player_Total_Real_Chips":1000} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] Event  : onEliminatePlayerEvent --> Data  : {"user_count":11,"game_id":5}
+
+
+[6/2/2017 3:12:04 PM] Event  : onEliminatePlayerEvent --> Data  : {"user_count":11,"game_id":5}
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 7# 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 10#{"Loser":{"Loser_Name":"Dealer","Player_Total_Play_Chips":228248,"Loser_Best_Cards":["ten_club","eight_club","eight_heart","seven_spade","seven_club"],"Loser_Rank":7,"Player_Total_Real_Chips":100000},"Winner":{"Total_Table_Amount":60,"Winning_Amount":140,"BliendAmount":15,"BetAmount":90,"winner_balance":250,"Player_Total_Play_Chips":4764,"Winner_Rank":3,"StraightAmount":30,"Winner_Name":"Plr1","WAAmount":5,"Round":15,"Rake_Percentage":6,"Winner_Best_Cards":["ten_club","ten_spade","four_spade","four_diamond","four_heart"],"Rake_Amount":0,"IsTie":false,"Player_Total_Real_Chips":1000}} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] onSendMoveDone
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 6# 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] Event  : onLevelUpdateEvent --> Data  : {"level":254,"game_id":5}
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 1#{"FirstFlop1":"ace_diamond","FirstFlop2":"jack_spade","ThirdFlop1":"four_spade","ThirdFlop2":"nine_diamond","SecondFlop1":"three_spade","SecondFlop2":"jack_club"} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 2#{"Game_Status":71,"Player_Name":"Dealer","Current_Round":0,"Player_Total_Play_Chips":228248,"Profile_Pic":"https://whoopasspoker.com/upload/userimages/avatar4.png","WACard":"king_spade","Restart_Time":15,"Turn_Time":20,"Player_BuyIn_Chips":0,"Player_Position":1,"Player_Status":1,"Card1":"jack_diamond","Player_Total_Real_Chips":100000,"Card2":"eight_club"} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 2#{"Game_Status":71,"Player_Name":"Plr1","Current_Round":0,"Player_Total_Play_Chips":4764,"Profile_Pic":"https://whoopasspoker.com/upload/userimages/avatar7.png","WACard":"eight_spade","Restart_Time":15,"Turn_Time":20,"Player_BuyIn_Chips":250,"Player_Position":2,"Player_Status":1,"Card1":"jack_heart","Player_Total_Real_Chips":1000,"Card2":"nine_club"} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 6# 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 4#{"Bet_Amount":0,"Total_Table_Amount":0,"Action":5,"Player_Name":"Dealer","Player_BuyIn_Chips":0,"IsBetOnStraight":false,"Player_Total_Play_Chips":228248,"Player_Total_Real_Chips":100000} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] sender  : TableAppWarpS2	next turn  : Plr1
+
+
+[6/2/2017 3:12:04 PM] sender  : TableAppWarpS2	next turn  : Plr1
+
+
+[6/2/2017 3:12:04 PM] onSendChatDone result : 0
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 100# 
+ Sender : Plr1
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 4#{"Bet_Amount":60,"Total_Table_Amount":60,"Action":4,"Player_Name":"Plr1","Player_BuyIn_Chips":190,"IsBetOnStraight":true,"Player_Total_Play_Chips":4704,"Player_Total_Real_Chips":1000} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 5#{"Total_Table_Amount":60,"Total_WA_Pot_Amount":0,"Round":11} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 4#{"Bet_Amount":0,"Total_Table_Amount":60,"Action":5,"Player_Name":"Dealer","Player_BuyIn_Chips":0,"IsBetOnStraight":false,"Player_Total_Play_Chips":228248,"Player_Total_Real_Chips":100000} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] sender  : TableAppWarpS2	next turn  : Plr1
+
+
+[6/2/2017 3:12:04 PM] sender  : TableAppWarpS2	next turn  : Plr1
+
+
+[6/2/2017 3:12:04 PM] onSendMoveDone
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 4#{"Bet_Amount":80,"Total_Table_Amount":140,"Action":4,"Player_Name":"Plr1","Player_BuyIn_Chips":110,"IsBetOnStraight":false,"Player_Total_Play_Chips":4624,"Player_Total_Real_Chips":1000} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 5#{"Total_Table_Amount":140,"Total_WA_Pot_Amount":0,"Round":12} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 4#{"Bet_Amount":0,"Total_Table_Amount":140,"Action":5,"Player_Name":"Dealer","Player_BuyIn_Chips":0,"IsBetOnStraight":false,"Player_Total_Play_Chips":228248,"Player_Total_Real_Chips":100000} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] sender  : TableAppWarpS2	next turn  : Plr1
+
+
+[6/2/2017 3:12:04 PM] sender  : TableAppWarpS2	next turn  : Plr1
+
+
+[6/2/2017 3:12:04 PM] onSendMoveDone
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 4#{"Bet_Amount":40,"Total_Table_Amount":180,"Action":4,"Player_Name":"Plr1","Player_BuyIn_Chips":70,"IsBetOnStraight":false,"Player_Total_Play_Chips":4584,"Player_Total_Real_Chips":1000} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 5#{"Total_Table_Amount":180,"Total_WA_Pot_Amount":0,"Round":13} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 4#{"Bet_Amount":0,"Total_Table_Amount":180,"Action":5,"Player_Name":"Dealer","Player_BuyIn_Chips":0,"IsBetOnStraight":false,"Player_Total_Play_Chips":228248,"Player_Total_Real_Chips":100000} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] sender  : TableAppWarpS2	next turn  : Plr1
+
+
+[6/2/2017 3:12:04 PM] sender  : TableAppWarpS2	next turn  : Plr1
+
+
+[6/2/2017 3:12:04 PM] onSendMoveDone
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 4#{"Bet_Amount":20,"Total_Table_Amount":200,"Action":4,"Player_Name":"Plr1","Player_BuyIn_Chips":50,"IsBetOnStraight":false,"Player_Total_Play_Chips":4564,"Player_Total_Real_Chips":1000} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 5#{"Total_Table_Amount":200,"Total_WA_Pot_Amount":0,"Round":14} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 4#{"Bet_Amount":0,"Total_Table_Amount":200,"Action":12,"Player_Name":"Dealer","Player_BuyIn_Chips":0,"IsBetOnStraight":false,"Player_Total_Play_Chips":228248,"Player_Total_Real_Chips":100000} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] sender  : TableAppWarpS2	next turn  : Plr1
+
+
+[6/2/2017 3:12:04 PM] sender  : TableAppWarpS2	next turn  : Plr1
+
+
+[6/2/2017 3:12:04 PM] onSendMoveDone
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 4#{"Bet_Amount":20,"Total_Table_Amount":220,"Action":12,"Player_Name":"Plr1","Player_BuyIn_Chips":30,"IsBetOnStraight":false,"Player_Total_Play_Chips":4544,"Player_Total_Real_Chips":1000} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 5#{"Total_Table_Amount":220,"Total_WA_Pot_Amount":0,"Round":15} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 4#{"Bet_Amount":0,"Total_Table_Amount":220,"Action":5,"Player_Name":"Dealer","Player_BuyIn_Chips":0,"IsBetOnStraight":false,"Player_Total_Play_Chips":228248,"Player_Total_Real_Chips":100000} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] sender  : TableAppWarpS2	next turn  : Plr1
+
+
+[6/2/2017 3:12:04 PM] sender  : TableAppWarpS2	next turn  : Plr1
+
+
+[6/2/2017 3:12:04 PM] onSendMoveDone
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 4#{"Bet_Amount":20,"Total_Table_Amount":240,"Action":4,"Player_Name":"Plr1","Player_BuyIn_Chips":10,"IsBetOnStraight":false,"Player_Total_Play_Chips":4524,"Player_Total_Real_Chips":1000} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] Event  : onEliminatePlayerEvent --> Data  : {"user_count":11,"game_id":5}
+
+
+[6/2/2017 3:12:04 PM] Event  : onEliminatePlayerEvent --> Data  : {"user_count":11,"game_id":5}
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 7# 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 10#{"Loser":{"Loser_Name":"Dealer","Player_Total_Play_Chips":228248,"Loser_Best_Cards":["ace_diamond","king_spade","jack_spade","jack_club","jack_diamond"],"Loser_Rank":6,"Player_Total_Real_Chips":100000},"Winner":{"Total_Table_Amount":240,"Winning_Amount":560,"BliendAmount":60,"BetAmount":360,"winner_balance":570,"Player_Total_Play_Chips":5084,"Winner_Rank":3,"StraightAmount":120,"Winner_Name":"Plr1","WAAmount":20,"Round":15,"Rake_Percentage":6,"Winner_Best_Cards":["jack_spade","jack_club","jack_heart","nine_diamond","nine_club"],"Rake_Amount":0,"IsTie":false,"Player_Total_Real_Chips":1000}} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] onSendMoveDone
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 6# 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] Event  : onLevelUpdateEvent --> Data  : {"level":255,"game_id":5}
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 1#{"FirstFlop1":"four_club","FirstFlop2":"seven_heart","ThirdFlop1":"queen_spade","ThirdFlop2":"two_diamond","SecondFlop1":"five_club","SecondFlop2":"ten_diamond"} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 2#{"Game_Status":71,"Player_Name":"Dealer","Current_Round":0,"Player_Total_Play_Chips":228248,"Profile_Pic":"https://whoopasspoker.com/upload/userimages/avatar4.png","WACard":"eight_club","Restart_Time":15,"Turn_Time":20,"Player_BuyIn_Chips":0,"Player_Position":1,"Player_Status":1,"Card1":"jack_club","Player_Total_Real_Chips":100000,"Card2":"eight_spade"} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 2#{"Game_Status":71,"Player_Name":"Plr1","Current_Round":0,"Player_Total_Play_Chips":5084,"Profile_Pic":"https://whoopasspoker.com/upload/userimages/avatar7.png","WACard":"king_spade","Restart_Time":15,"Turn_Time":20,"Player_BuyIn_Chips":570,"Player_Position":2,"Player_Status":1,"Card1":"six_heart","Player_Total_Real_Chips":1000,"Card2":"ten_spade"} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 6# 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] Chat Received : 4#{"Bet_Amount":0,"Total_Table_Amount":0,"Action":5,"Player_Name":"Dealer","Player_BuyIn_Chips":0,"IsBetOnStraight":false,"Player_Total_Play_Chips":228248,"Player_Total_Real_Chips":100000} 
+ Sender : TableAppWarpS2
+
+
+[6/2/2017 3:12:04 PM] sender  : TableAppWarpS2	next turn  : Plr1
+
+
+[6/2/2017 3:12:04 PM] sender  : TableAppWarpS2	next turn  : Plr1
+
+
+[6/2/2017 3:12:04 PM] Home button tapped
+
+
+[6/2/2017 3:12:04 PM] onDisconnectDone : 4
+
+
+[6/2/2017 3:12:04 PM] onUnSubscribeRoomDone : 0
+
+
+[6/2/2017 3:12:04 PM] Event  : onCashGameLeaveEvent --> Data  : {"user_count":1,"game_id":5}
+
+
+[6/2/2017 3:12:04 PM] onLeaveRoomDone : 0
+
+
+[6/2/2017 3:12:04 PM] Event  : onEliminatePlayerEvent --> Data  : {"user_count":11,"game_id":5}
+
+
+[6/2/2017 3:12:04 PM] Event  : onEliminatePlayerEvent --> Data  : {"user_count":11,"game_id":5}
+
+
+[6/2/2017 3:12:04 PM] onDisconnectDone : 0
+
+
+[6/2/2017 3:12:04 PM] Warning :>> {"id":26,"last_session_id":"1dd0359a5ec7db96f53473f5a52e4bbcafd0b3a7","name":"Plr1","namehash":"37d8365296af08fcceb0272f6227a4b9","firstname":"Player","lastname":"Player last name","email":"plr1@gmail.com","emailhash":"c4c7b1235a80713ef3fae3c905699680","mobile":"2222222","address":"Gwalior","country":"China","city":"Gwalior","state":null,"zip_code":"12345","balance_cash":"1000.0","balance_chips":"5084.0","gender":"male","date_of_birth":"1998-06-10 07:53:37","daily_limit":null,"security_question":"What was your childhood nickname","security_answer":"vinod","avtar":"https:\/\/whoopasspoker.com\/upload\/userimages\/avatar7.png","pin":"1234","enable_pin":0}
+
+
+[6/2/2017 3:12:04 PM] Warning :>> {"total":18,"per_page":"8","current_page":1,"last_page":3,"next_page_url":"https:\/\/whoopasspoker.com\/rest-api\/v1\/games?page=2","prev_page_url":null,"from":1,"to":8,"data":[{"id":1,"user_id":26,"poker_type":"table","money_type":"play money","game_name":"WhoopAss Table Game","limit":"yes","name":"TableGameTest1","description":null,"game_type":"cash game","absent_plr_elimination_timer":5,"rebuy_timer":0,"break_timer":0,"break_waiting_timer":60,"max_sit_out_next_hand_time":5,"min_plr_for_breaking_table":3,"minimum_players":2,"maximum_players":3,"register_from":"1970-01-01 00:00:00","start_time":"2017-06-02 09:17:44","game_speed":"regular","fee":null,"entry_fee":null,"fee_detail":null,"raise_time":0,"small_blind":"0.00","big_blind":"0.00","rake_id":0,"prize_pool":null,"buy_in":"60.00","dealer_payout":-620,"dealer_win":63845,"status":"finished","finished_time":"2017-06-02 09:18:06","created_at":"2017-02-27 04:06:09","updated_at":"2017-06-02 09:18:06","deleted_at":null,"joined":false,"users":0},{"id":3,"user_id":27,"poker_type":"table","money_type":"play money","game_name":"WhoopAss Table Game","limit":"yes","name":"Test Table Game-2","description":null,"game_type":"cash game","absent_plr_elimination_timer":5,"rebuy_timer":0,"break_timer":0,"break_waiting_timer":60,"max_sit_out_next_hand_time":5,"min_plr_for_breaking_table":3,"minimum_players":2,"maximum_players":3,"register_from":"1970-01-01 00:00:00","start_time":"2017-06-01 04:24:11","game_speed":"regular","fee":null,"entry_fee":null,"fee_detail":null,"raise_time":0,"small_blind":"0.00","big_blind":"0.00","rake_id":0,"prize_pool":null,"buy_in":"60.00","dealer_payout":-35010,"dealer_win":111090,"status":"finished","finished_time":"2017-06-01 04:24:32","created_at":"2017-03-02 08:29:09","updated_at":"2017-06-01 04:24:32","deleted_at":null,"joined":false,"users":0},{"id":5,"user_id":30,"poker_type":"table","money_type":"play money","game_name":"WhoopAss Table Game","limit":"yes","name":"BMM-WA Table Game","description":null,"game_type":"cash game","absent_plr_elimination_timer":5,"rebuy_timer":0,"break_timer":0,"break_waiting_timer":60,"max_sit_out_next_hand_time":5,"min_plr_for_breaking_table":3,"minimum_players":2,"maximum_players":3,"register_from":"1970-01-01 00:00:00","start_time":"2017-06-02 09:43:24","game_speed":"regular","fee":null,"entry_fee":null,"fee_detail":null,"raise_time":0,"small_blind":"0.00","big_blind":"0.00","rake_id":0,"prize_pool":null,"buy_in":"60.00","dealer_payout":415,"dealer_win":8340,"status":"finished","finished_time":"2017-06-02 09:43:30","created_at":"2017-03-07 22:12:19","updated_at":"2017-06-02 09:43:30","deleted_at":null,"joined":false,"users":0},{"id":6,"user_id":30,"poker_type":"wa","money_type":"play money","game_name":"WhoopAss No Limit","limit":"no","name":"BMM-WA NO Limit","description":null,"game_type":"cash game","absent_plr_elimination_timer":5,"rebuy_timer":0,"break_timer":0,"break_waiting_timer":60,"max_sit_out_next_hand_time":5,"min_plr_for_breaking_table":3,"minimum_players":2,"maximum_players":6,"register_from":"1970-01-01 00:00:00","start_time":"2017-05-24 13:30:38","game_speed":"regular","fee":null,"entry_fee":null,"fee_detail":null,"raise_time":0,"small_blind":"500.00","big_blind":"1000.00","rake_id":0,"prize_pool":null,"buy_in":"10000.00","dealer_payout":0,"dealer_win":0,"status":"running","finished_time":"2017-04-24 13:53:44","created_at":"2017-03-08 00:11:13","updated_at":"2017-06-01 18:27:51","deleted_at":null,"joined":false,"users":0},{"id":7,"user_id":30,"poker_type":"wa","money_type":"play money","game_name":"WhoopAss No Limit","limit":"no","name":"BMM-WA NO Limit","description":null,"game_type":"cash game","absent_plr_elimination_timer":5,"rebuy_timer":0,"break_timer":0,"break_waiting_timer":60,"max_sit_out_next_hand_time":5,"min_plr_for_breaking_table":3,"minimum_players":2,"maximum_players":6,"register_from":"1970-01-01 00:00:00","start_time":"2017-03-08 00:11:47","game_speed":"regular","fee":null,"entry_fee":null,"fee_detail":null,"raise_time":0,"small_blind":"500.00","big_blind":"1000.00","rake_id":0,"prize_pool":null,"buy_in":"10000.00","dealer_payout":0,"dealer_win":0,"status":"running","finished_time":"1970-01-01 00:00:00","created_at":"2017-03-08 00:11:18","updated_at":"2017-05-24 13:13:27","deleted_at":null,"joined":false,"users":0},{"id":8,"user_id":30,"poker_type":"wa","money_type":"play money","game_name":"WhoopAss Limit","limit":"yes","name":"BMM-WA Limit","description":null,"game_type":"cash game","absent_plr_elimination_timer":5,"rebuy_timer":0,"break_timer":0,"break_waiting_timer":60,"max_sit_out_next_hand_time":5,"min_plr_for_breaking_table":3,"minimum_players":2,"maximum_players":6,"register_from":"1970-01-01 00:00:00","start_time":"2017-03-15 17:10:32","game_speed":"regular","fee":null,"entry_fee":null,"fee_detail":null,"raise_time":0,"small_blind":"1000.00","big_blind":"2000.00","rake_id":0,"prize_pool":null,"buy_in":"20000.00","dealer_payout":0,"dealer_win":0,"status":"running","finished_time":"1970-01-01 00:00:00","created_at":"2017-03-08 00:13:22","updated_at":"2017-06-01 18:22:43","deleted_at":null,"joined":false,"users":0},{"id":9,"user_id":30,"poker_type":"wa","money_type":"play money","game_name":"WhoopAss Limit","limit":"yes","name":"BMM-WA Limit","description":null,"game_type":"cash game","absent_plr_elimination_timer":5,"rebuy_timer":0,"break_timer":0,"break_waiting_timer":60,"max_sit_out_next_hand_time":5,"min_plr_for_breaking_table":3,"minimum_players":2,"maximum_players":6,"register_from":"1970-01-01 00:00:00","start_time":"2017-04-24 13:48:41","game_speed":"regular","fee":null,"entry_fee":null,"fee_detail":null,"raise_time":0,"small_blind":"1000.00","big_blind":"2000.00","rake_id":0,"prize_pool":null,"buy_in":"20000.00","dealer_payout":0,"dealer_win":0,"status":"running","finished_time":"1970-01-01 00:00:00","created_at":"2017-03-08 00:13:31","updated_at":"2017-04-24 13:48:47","deleted_at":null,"joined":false,"users":0},{"id":10,"user_id":30,"poker_type":"wa","money_type":"play money","game_name":"WhoopAss Limit","limit":"yes","name":"BMM-WA Limit","description":null,"game_type":"cash game","absent_plr_elimination_timer":5,"rebuy_timer":0,"break_timer":0,"break_waiting_timer":60,"max_sit_out_next_hand_time":5,"min_plr_for_breaking_table":3,"minimum_players":2,"maximum_players":6,"register_from":"1970-01-01 00:00:00","start_time":"1970-01-01 00:00:00","game_speed":"regular","fee":null,"entry_fee":null,"fee_detail":null,"raise_time":0,"small_blind":"1000.00","big_blind":"2000.00","rake_id":0,"prize_pool":null,"buy_in":"20000.00","dealer_payout":0,"dealer_win":0,"status":"registering","finished_time":"1970-01-01 00:00:00","created_at":"2017-03-08 00:13:36","updated_at":"2017-03-08 00:13:36","deleted_at":null,"joined":false,"users":0}]}
+
